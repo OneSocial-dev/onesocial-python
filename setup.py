@@ -8,7 +8,7 @@ README = (BASE_DIR / "README.md").read_text()
 
 setup(
     name="onesocial",
-    version="1.0.0",
+    version="1.0.1",
     description="Клиент для OneSocial API",
     long_description=README,
     long_description_content_type="text/markdown",
